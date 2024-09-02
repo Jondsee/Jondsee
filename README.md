@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Jondsee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi 👋, I'm Jondsee
+A Full Stack Developer | Quality Engineer | UI/UX Designer from Sri Lanka
+🔭 I’m currently working on DASH TAP: Vehicle Rental Management System
 
-<!---
-Jondsee/Jondsee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning Next.js | Tailwind.css
+
+💬 Ask me about Python | Java | Spring | PHP
+
+📫 How to reach me dilshanmindika@outlook.com
+
+⚡ Fun fact I think I'm funny
+
+Connect with me:
+dilshan-mindika dilshan-mindika
+
+Languages and Tools:
+android aws cplusplus css3 dart dotnet figma firebase flutter gcp git html5 illustrator java javascript kotlin mongodb mysql nginx nodejs photoshop php postgresql postman python react spring tailwind xd
+
